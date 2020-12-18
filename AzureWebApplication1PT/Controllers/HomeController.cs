@@ -15,7 +15,7 @@ namespace AzureWebApplication1PT.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Pranav Adiraju's Page.";
+            ViewBag.Message = "Pranav Adiraju's Page Updated.";
 
             return View();
         }
